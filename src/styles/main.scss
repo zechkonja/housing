@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: url('../assets/fonts/Roboto-Regular.ttf');
+}
+
+
+$main-bg-color: #ae252a;
+
+body{
+  margin: auto;
+  width: 100%;
+}
+
+#app{
+  font-family: 'Roboto-Regular';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+}
